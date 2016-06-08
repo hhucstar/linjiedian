@@ -7,3 +7,6 @@
 1. HTWAAG-01周作业：http://www.jianshu.com/p/ba0bee6c8630
 
 2. Github 上怎样把新 commits 使用在自己的 fork 上？http://www.zhihu.com/question/20393785
+
+3. HTWWAG-02周作业：https://github.com/hhucstar/Hb2wTask/blob/master/11TeamTask.md
+
